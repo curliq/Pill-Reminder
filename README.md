@@ -8,7 +8,7 @@ An app that notifies the user when he needs to take his medication, with a clean
 
 # License
 
-Copyright [2016] João Sardinha
+Copyright 2016 João Sardinha
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
