@@ -3,6 +3,8 @@ An app that notifies the user when he needs to take his medication, with a clean
 
 ![alt tag](http://i.imgur.com/xd9L8fn.png)
 
+# Download
+[![alt tag](http://i.imgur.com/ATBwrf6.png)](https://play.google.com/store/apps/details?id=com.dailyreminder)
 
 # License
 
